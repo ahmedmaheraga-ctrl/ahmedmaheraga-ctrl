@@ -23,6 +23,11 @@ These are some of the technologies that I am currently learning or exploring:
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaheraga-ctrl&show_icons=true&theme=radical&include_all_commits=true">
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedmaheraga-ctrl&theme=radical&color=orange" alt="Profile Views" />
+</p>
+
 <br>
 
 ## Let's Connect :handshake:
