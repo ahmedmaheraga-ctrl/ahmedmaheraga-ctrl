@@ -1,11 +1,22 @@
 <h1>Hi There, I'm Ahmed Maher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="left">
+  <!-- Portfolio Badge -->
+  <a href="https://ahmedmaheraga-ctrl.github.io/my_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  &nbsp;
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/ahmed-maher-b95634427" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <!-- Role Badges -->
   <img src="https://img.shields.io/badge/Aspiring_Developer-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role">
   <img src="https://img.shields.io/badge/Learning_Fundamentals-green?style=for-the-badge" alt="Learning">
 </p>
 
-I'm an **Aspiring Developer** and a beginner in programming, currently learning the fundamentals and exploring the world of code. I'm open to collaborate on beginner projects and always excited to learn new things.
+I'm a **Microbiologist & Aspiring Developer** bridging scientific analytical precision with software engineering. Currently focused on building machine learning algorithms, data processing systems, and clean Python architectures. Open to collaboration on interesting projects!
 
 <!-- Profile Views Counter -->
 <p align="left">
@@ -14,9 +25,16 @@ I'm an **Aspiring Developer** and a beginner in programming, currently learning 
 
 ---
 
+## 🌐 Personal Portfolio Website
+
+Check out my personal portfolio website to see my latest projects, experience, and skills:
+👉 **[ahmedmaheraga-ctrl.github.io/my_portfolio/](https://ahmedmaheraga-ctrl.github.io/my_portfolio/)**
+
+---
+
 ## <img src="https://img.icons8.com/color/48/000000/muscle.png" width="25px"> Skill Set
 
-These are some of the technologies that I am currently learning or exploring:
+These are some of the technologies that I am currently using and exploring:
 
 ### Programming Languages
 
@@ -55,19 +73,15 @@ These are some of the technologies that I am currently learning or exploring:
 ## <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25px"> Let's Connect
 
 <p align="left">
+  <a href="https://ahmedmaheraga-ctrl.github.io/my_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ahmed-maher-b95634427" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="mailto:ahmed.maher.aga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
